@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="paralel-course">
+    <output-path>$PROJECT_DIR$/out/artifacts/paralel_course</output-path>
+    <root id="root" />
+  </artifact>
+</component>
